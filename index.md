@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Liza's GitHub Pages
+
+![typing test](https://github.com/lizacantera/ProgrammingSHS/blob/gh-pages/Screenshot%202020-08-26%20at%208.45.08%20AM.png?raw=true) 
+
 
 You can use the [editor on GitHub](https://github.com/lizacantera/ProgrammingSHS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
